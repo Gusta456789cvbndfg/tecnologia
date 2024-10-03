@@ -11,6 +11,8 @@ const perguntas = [
                 texto: "Isso é assustador!",
                 afirmacao: "No início ficou com medo do que essa tecnologia pode fazer. "
             },
+            texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
+            afirmacao: "Vem impuls
             {
                 texto: "Isso é maravilhoso!",
                 afirmacao: "os robos vao ajudar muito a humanidade."
@@ -25,6 +27,8 @@ const perguntas = [
                 texto: "isso e de dar medo"
                 afirmacao: "isso e perigoso para a humanidade."
             },
+            texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
+            afirmacao: "Vem impuls
             {
                 texto: "isso e magico.",
                 afirmacao: "e incrivel e sera de grande ajuda para a humanidade."
